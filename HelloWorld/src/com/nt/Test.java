@@ -10,4 +10,10 @@ public class Test {
 	public void add() {
 		System.out.println("added by tl");
 	}
+	
+	public void sub() {
+		
+		int c=9-7;
+		System.out.println("result is" + c);
+	}
 }
