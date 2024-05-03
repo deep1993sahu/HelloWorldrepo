@@ -6,4 +6,9 @@ public class Test {
 		System.out.println("hiiii");
 	}
 
+	
+	public void sub() {
+		
+		System.out.println("sub added");
+	}
 }
