@@ -6,4 +6,8 @@ public class Test {
 		System.out.println("hiiii");
 	}
 
+	
+	public void add() {
+		System.out.println("added by tl");
+	}
 }
