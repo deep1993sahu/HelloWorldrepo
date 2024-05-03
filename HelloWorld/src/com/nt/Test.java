@@ -6,9 +6,13 @@ public class Test {
 		System.out.println("hiiii");
 	}
 
+	public void add() {
+		System.out.println("added by tl");
+	}
 	
 	public void sub() {
-		
-		System.out.println("sub added");
+		int c=9-7;
+		System.out.println("result is" + c);
+
 	}
 }
